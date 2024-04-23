@@ -1,0 +1,1 @@
+I have used HTML,CSS,JAVASCRIPT to do this weather app.This  Weather Project consists of a web application that allows users to get current weather data and hourly forecasts for a specified city. The project is based on the OpenWeatherMap API and provide the users with an easy-to-use interface for entering city names and receiving weather updates.
