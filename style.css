@@ -1,7 +1,8 @@
 body {
     
     background-repeat: no-repeat;
-    background-image:url(imgs/weather1.jpg) ;
+/*     background-image:url(imgs/weather1.jpg) ; */
+    background-color: rgb(46, 175, 227);
     background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
@@ -12,7 +13,8 @@ body {
 }
 
 #weather-container {
-    background-image:url(imgs/w.webp) ;
+/*     background-image:url(imgs/w.webp) ; */
+    background-color: #190ee3d9;
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 400px;
@@ -40,7 +42,7 @@ input {
 }
 
 button {
-    background: #0510d4;
+   background: #011215;
     color: white;
     padding: 10px;
     border: none;
